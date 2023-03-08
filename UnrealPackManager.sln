@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnrealPackManager", "UnrealPackManager.csproj", "{685AFDD4-2D32-4370-B601-B04D0AA8CC65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685AFDD4-2D32-4370-B601-B04D0AA8CC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685AFDD4-2D32-4370-B601-B04D0AA8CC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685AFDD4-2D32-4370-B601-B04D0AA8CC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685AFDD4-2D32-4370-B601-B04D0AA8CC65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE217A3E-718E-4CF6-B1DF-7F50F21D120A}
+	EndGlobalSection
+EndGlobal
